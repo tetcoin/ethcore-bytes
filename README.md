@@ -1,6 +1,6 @@
-# ethcore-bytes
+# vapcore-bytes
 
-Byte utilities for Parity
+Byte utilities for tetsy
 
-[![Build Status](https://travis-ci.org/paritytech/ethcore-bytes.svg?branch=master)](https://travis-ci.org/paritytech/ethcore-bytes)
-[![crates.io link](https://img.shields.io/crates/v/ethcore-bytes.svg)](https://crates.io/crates/ethcore-bytes)
+[![Build Status](https://travis-ci.org/tetcoin/vapcore-bytes.svg?branch=master)](https://travis-ci.org/tetcoin/vapcore-bytes)
+[![crates.io link](https://img.shields.io/crates/v/vapcore-bytes.svg)](https://crates.io/crates/vapcore-bytes)
